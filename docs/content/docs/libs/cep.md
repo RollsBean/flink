@@ -51,7 +51,9 @@ add the FlinkCEP dependency to the `pom.xml` of your project.
 {{< /tab >}}
 {{< /tabs >}}
 
+{{< hint info >}}
 FlinkCEP is not part of the binary distribution. See how to link with it for cluster execution [here]({{< ref "docs/dev/datastream/project-configuration" >}}).
+{{< /hint >}}
 
 Now you can start writing your first CEP program using the Pattern API.
 
